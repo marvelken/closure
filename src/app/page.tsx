@@ -740,7 +740,7 @@ const DigitalBook = () => {
     }
   };
 
-  const goToPage = (pageIndex) => {
+  const goToPage = (pageIndex: number) => {
     setCurrentPage(pageIndex);
   };
 
