@@ -688,7 +688,7 @@ const DigitalBook = () => {
       type: "content",
       content: (
         <div className="p-8 space-y-6">
-          <h3 className="text-xl font-semibold text-rose-700">Ouch !! </h3>
+          <h3 className="text-xl font-semibold text-rose-700">Ouch !!, give the images below time to load... </h3>
           <Image
             src="/images/gif1.gif"
             alt="Description"
