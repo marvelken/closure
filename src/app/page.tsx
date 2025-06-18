@@ -45,7 +45,9 @@ const DigitalBook = () => {
             <p>
               Do you remember when I told you to listen to super market flowers,
               when I wanted to write you love text? lol, now please listen to
-              Adele Hometown Glory or The Night We Met - Lord Huron. This should set a tone atleast...
+              Adele Hometown Glory or The Night We Met - Lord Huron. This should
+              set a tone atleast, 'cause you have got 18 pages to go through, if you
+              read this on a bigger screen it could be better...
             </p>
             <p>
               I hope the gift is beautiful. I hope it doesn't bring you to
@@ -669,12 +671,14 @@ const DigitalBook = () => {
       type: "content",
       content: (
         <div className="p-8 space-y-6">
-          <h3 className="text-xl font-semibold text-rose-700">If you don't reach back to me, I want you to know  🎙️</h3>
+          <h3 className="text-xl font-semibold text-rose-700">
+            If you don't reach back to me, I want you to know 🎙️
+          </h3>
           <div className="bg-blue-50 p-6 mb-5 rounded-lg border border-blue-200">
             <p className="text-gray-700 italic leading-relaxed">
-              "I may have forgotten how exactly you sound - they say the voice is
-              the first thing you forget - but if you call me while I sleep, I
-              will know it is you. I wish you the best in life, the very, very
+              "I may have forgotten how exactly you sound - they say the voice
+              is the first thing you forget - but if you call me while I sleep,
+              I will know it is you. I wish you the best in life, the very, very
               best. Keep winning, darling. I'm glad we wrote a great story
               together, one people don't live long enough to experience. God
               bless you for me. Ima-mi. Cheers to the future darling" 🎙️💕
@@ -688,7 +692,9 @@ const DigitalBook = () => {
       type: "content",
       content: (
         <div className="p-8 space-y-6">
-          <h3 className="text-xl font-semibold text-rose-700">Ouch !!, give the images below time to load... </h3>
+          <h3 className="text-xl font-semibold text-rose-700">
+            Ouch !!, give the images below time to load...{" "}
+          </h3>
           <Image
             src="/images/gif1.gif"
             alt="Description"
@@ -717,7 +723,7 @@ const DigitalBook = () => {
             height={100}
             className="w-full h-auto mb-5"
           />
-          
+
           <div className="bg-blue-50 p-6 mb-5 rounded-lg border border-blue-200">
             <p className="text-gray-700 italic leading-relaxed">
               Now I can get rid of them. I Love you. Gracias. 💕
