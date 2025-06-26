@@ -618,6 +618,16 @@ const DigitalBook = () => {
                   https://vm.tiktok.com/ZMSynGcvx/
                 </a>
               </li>
+              <li>
+                <a
+                  href="https://vm.tiktok.com/ZMSaS2cj6/"
+                  target="_blank"
+                  className="text-blue-600 hover:underline"
+                >
+                  https://vm.tiktok.com/ZMSaS2cj6/
+                </a>
+                <p>you did this alot, hope you stop it.</p>
+              </li>
             </ul>
             <p>
               Maybe in our next world, you will be my Mrs. and I will be your
@@ -625,7 +635,7 @@ const DigitalBook = () => {
               in this world, please, if you get to see my kid and they need your
               help, treat them like you would treat 2019/2020 Marvel. And if I
               see your kid and they need my help, I will treat them like I would
-              my 2020 ima. ❤️👶
+              treat 2020 Ima. ❤️👶
             </p>
           </div>
         </div>
